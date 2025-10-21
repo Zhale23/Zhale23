@@ -34,7 +34,6 @@ Siempre abierta a oportunidades de aprendizaje, mentoría y colaboración en pro
 
 [![Mi Portafolio](https://img.shields.io/badge/Portafolio_Web-4e89ae?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-mfnu.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ZharickLondoño-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://co.linkedin.com/in/zharick-londo%C3%B1o-540511302)
-[![GitHub](https://img.shields.io/badge/GitHub-ZharickLondoño-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zhale23)
 [![Email](https://img.shields.io/badge/Contactame_Por_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](zharicklondos@gmail.com)
 [![Inglés B2](https://img.shields.io/badge/Inglés_B2-4CAF50?style=for-the-badge&logo=language-english&logoColor=white)]()
 
