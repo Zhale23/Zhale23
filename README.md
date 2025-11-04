@@ -12,12 +12,17 @@ Mi objetivo es aplicar la base técnica sólida con las tecnologías más recien
 
 Estas son las herramientas que estoy utilizando y aprendiendo activamente:
 
-| Categoría | Tecnologías | Nivel |
-| :--- | :--- | :--- |
-| **Lenguajes Base** | **HTML5** · **CSS3** · **JavaScript** (ES6+) | 🟢 Sólido |
-| **Backend** | **Python** 🐍 · **PHP** 🐘 | 🟡 Intermedio/Fundamentos |
-| **Frameworks** | **Laravel** (Aprendiendo) | 🟠 Principiante |
-| **Control de Versiones** | **Git** & **GitHub** | 🟢 Intermedio |
+| Tecnología | Categoría | Nivel |
+|---|---:|---|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | Backend | Intermedio |
+| ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square) | Framework (Backend) | Intermedio/Bueno |
+| ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square) | Framework (Backend) | Básico |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) | Frontend | Sólido |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) | Frontend | Sólido |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) | Frontend | Sólido |
+| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) | Framework (Frontend) | Básico / Aprendiendo |
+| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)| Framework (Frontend) / UI | Básico |
+| ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) | Base de datos | Intermedio / Bueno |
 
 ---
 
