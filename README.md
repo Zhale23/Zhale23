@@ -1,4 +1,4 @@
-# Zharick Londoño | Desarrolladora Full-Stack en Formación 👩‍💻✨
+# Zharick Londoño | Test Automation Engineer en formación
 
 ## 🎓 Perfil Académico y Profesional
 
